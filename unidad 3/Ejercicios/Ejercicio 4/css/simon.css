@@ -1,0 +1,20 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color: rgb(10, 10, 113);
+}
+
+p{
+    color: rgb(71, 68, 68);
+}
+
+.otro-estilo{
+    color:red;
+
+}
+
+.blend{
+    color: rgb(37, 21, 21);
+}
