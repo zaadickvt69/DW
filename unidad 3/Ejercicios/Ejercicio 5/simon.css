@@ -1,0 +1,24 @@
+.a{
+    text-indent: 50px;
+}
+.b{
+    text-indent: 3em;
+}
+.c{
+    text-indent: 20%;
+}
+.d{
+    text-indent: -50px;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}
+.text-justify{
+    text-align: justify;
+}
