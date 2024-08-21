@@ -22,3 +22,28 @@
 .text-justify{
     text-align: justify;
 }
+.t-dec-underline { text-decoration: underline;}
+.t-dec-overline { text-decoration: overline;}
+.t-dec-through { text-decoration: line-through;}
+
+.l-spacing-3 { letter-spacing: 3px;}
+.l-spacing-10 { letter-spacing: 10px;}
+.l-spacing-15 { letter-spacing: 15px;}
+
+.w-spacing-5 {word-spacing: 5px;}
+.w-spacing-20 {word-spacing: 20px;}
+.w-spacing-50 {word-spacing: 50px;}
+
+.t-cap {text-transform: capitalize;}
+.t-upp {text-transform: uppercase;}
+.t-low {text-transform: lowercase;}
+
+.line-height-50 {line-height: 50px;}
+.line-height-3 {line-height: 3em;}
+.line-height-20 {line-height: 1000%;}
+
+td{height: 100px; border: 1px solid gray}
+.top {vertical-align: top;}
+.mid {vertical-align: middle;}
+.bott {vertical-align: bottom;}
+
