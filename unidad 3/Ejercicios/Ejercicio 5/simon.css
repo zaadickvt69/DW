@@ -47,3 +47,17 @@ td{height: 100px; border: 1px solid grey}
 .mid {vertical-align: middle;}
 .bott {vertical-align: bottom;}
 
+.baseline {vertical-align: baseline;}
+.sub {vertical-align: sub;}
+.super {vertical-align: super;}
+.px {vertical-align: -10px;}
+
+.family {font-family: 'Times New Roman', Times, serif;}
+.family2 {font-family: Arial, Helvetica, sans-serif;}
+
+.nor {font-style: normal;}
+.ita {font-style: italic;}
+.obli {font-style: oblique;}
+
+.normal {font-variant: normal;}
+.scap {font-variant: small-caps;}
