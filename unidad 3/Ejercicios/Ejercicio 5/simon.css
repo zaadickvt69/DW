@@ -61,3 +61,10 @@ td{height: 100px; border: 1px solid grey}
 
 .normal {font-variant: normal;}
 .scap {font-variant: small-caps;}
+
+.w-normal {font-weight: normal;}
+.w-bold {font-weight: bold;}
+.w-bolder {font-weight: bolder;}
+.w-lighter {font-weight: lighter;}
+.w-400 {font-weight: 400;}
+.w-700 {font-weight: 700;}
