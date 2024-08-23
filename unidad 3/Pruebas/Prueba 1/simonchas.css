@@ -1,0 +1,18 @@
+.contenedor{
+margin: 20px;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+
+
+.fontspx {text-indent: 50px;}
+.fonts3em {text-indent: 3em;}
+.fonts30 {text-indent: 30%;}
+.fonts-50 {text-indent: -5%;}
+
+.text-c{text-align: center;}
+.text-r{text-align: right;}
+.text-l{text-align: left;}
+.text-j{text-align: justify;}
+
