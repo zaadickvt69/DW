@@ -1,3 +1,7 @@
+*{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+h2{color: blueviolet;}
+
 .contenedor{
 margin: 20px;
 padding: 10px;
@@ -15,4 +19,18 @@ border-radius: 5px;
 .text-r{text-align: right;}
 .text-l{text-align: left;}
 .text-j{text-align: justify;}
+
+.t-underline{text-decoration: underline;}
+.t-overline{text-decoration: overline;}
+.t-through{text-decoration: line-through;}
+
+.l-spacing-3 { letter-spacing: 3px;}
+.l-spacing-10 { letter-spacing: 10px;}
+.l-spacing-15 { letter-spacing: 15px;}
+
+.w-spacing-5 {word-spacing: 5px;}
+.w-spacing-20 {word-spacing: 20px;}
+.w-spacing-50 {word-spacing: 50px;}
+
+
 
