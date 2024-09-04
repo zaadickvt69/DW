@@ -32,5 +32,10 @@ border-radius: 5px;
 .w-spacing-20 {word-spacing: 20px;}
 .w-spacing-50 {word-spacing: 50px;}
 
+.t-cap {text-transform: capitalize;}
+.t-upp {text-transform: uppercase;}
+.t-low {text-transform: lowercase;}
+
+
 
 
